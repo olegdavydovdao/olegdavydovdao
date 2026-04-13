@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 I'm a deep neural network engineer.\
 Tech stack: Python, PyTorch, DL math and principles.\
 Made architecture: Transformer, MLP, 1D CNN, BPE (NLP only).\
-Top completed project: GPT2 (NLP only).\
+Top completed project: base GPT-2 (NLP only).\
 I'm currently working on JEPA-like architecture.\
 I'm currently learning how to reach the next breakthrough in AI.\
 I'm looking to collaborate on what I'm working on and learning.
