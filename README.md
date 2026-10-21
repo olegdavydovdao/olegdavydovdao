@@ -16,8 +16,11 @@ Here are some ideas to get you started:
 -->
 I'm a deep neural network engineer.\
 Tech stack: Python, PyTorch, DL math and principles.\
-Made architecture(NLP only): pretraining GPT(Transformer), MLP, 1D CNN, BPE.\
-Top completed project: pretraining GPT-2 from this [repo](https://github.com/olegdavydovdao/reimplement-nn-0tohero) (NLP only).\
+Made architecture: I-JEPA, GPT, Transformer, ViT, MLP, 1D CNN, BPE.\
+Top completed projects:
+- pretraining and probe [I-JEPA](https://github.com/olegdavydovdao/i-jepa).
+- pretraining [GPT-2](https://github.com/olegdavydovdao/reimplement-nn-0tohero) (NLP only).
+
 I'm currently working on [I-JEPA](https://github.com/olegdavydovdao/i-jepa).\
 I'm currently learning how to reach the next breakthrough in AI.\
 I'm looking to collaborate on what I'm working on and learning.
