@@ -23,5 +23,5 @@ Tech stack: Python, PyTorch, DL math and principles.\
 Made architecture: I-JEPA, GPT, Transformer, ViT, MLP, 1D CNN, BPE.\
 I'm currently working on [I-JEPA](https://github.com/olegdavydovdao/i-jepa).\
 I'm currently learning how to train and use world models to\
-AI can predict the consequences of its actions and plan in physical world.\
+AI can predict the consequences of its actions and reason in physical world.\
 I'm looking to collaborate on what I'm working on and learning.
