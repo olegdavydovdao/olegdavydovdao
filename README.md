@@ -15,12 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 I'm a deep neural network engineer.\
-Tech stack: Python, PyTorch, DL math and principles.\
-Made architecture: I-JEPA, GPT, Transformer, ViT, MLP, 1D CNN, BPE.\
 Top completed projects:
 - pretraining and probe [I-JEPA](https://github.com/olegdavydovdao/i-jepa).
 - pretraining [GPT-2](https://github.com/olegdavydovdao/reimplement-nn-0tohero) (NLP only).
 
+Tech stack: Python, PyTorch, DL math and principles.\
+Made architecture: I-JEPA, GPT, Transformer, ViT, MLP, 1D CNN, BPE.\
 I'm currently working on [I-JEPA](https://github.com/olegdavydovdao/i-jepa).\
 I'm currently learning how to train and use world models to\
 AI can predict the consequences of its actions and plan in physical world.\
