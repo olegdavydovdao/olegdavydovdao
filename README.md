@@ -22,5 +22,6 @@ Top completed projects:
 - pretraining [GPT-2](https://github.com/olegdavydovdao/reimplement-nn-0tohero) (NLP only).
 
 I'm currently working on [I-JEPA](https://github.com/olegdavydovdao/i-jepa).\
-I'm currently learning how to reach the next breakthrough in AI.\
+I'm currently learning how to train and use world models to\
+AI can predict the consequences of it's actions and plan in physical world.\
 I'm looking to collaborate on what I'm working on and learning.
